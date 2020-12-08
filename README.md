@@ -1,1 +1,2 @@
-# GOOD-HABIT
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
